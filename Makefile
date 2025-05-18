@@ -1,5 +1,5 @@
 # Zip Naming
-NAME ?= Risa-Kernel-5.4
+NAME ?= Phantomhive-Kernel-5.4
 CODENAME ?= redwood
 VERSION ?= v2.0
 CUSTOM ?= $(shell date "+%H%M")
